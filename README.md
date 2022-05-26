@@ -2,13 +2,13 @@
 
 - Clone Repo
   ```bash
-  git clone https://github.com/SnehalAgrawal/about-react-dummy-apis.git
+  git clone https://github.com/liu-purnomo/dummy-api.git
   ```
 
 
 - Jump into the directory
   ```bash
-  cd about-react-dummy-apis
+  cd dummy-apis
   ```
 
 - Install:
@@ -123,4 +123,4 @@
    ```
 
 ## By
-[AboutReact](https://aboutrect.com)
+[AboutReact](https://liupurnomo.com)
