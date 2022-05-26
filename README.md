@@ -123,4 +123,4 @@
    ```
 
 ## By
-[AboutReact](https://liupurnomo.com)
+[Liu Purnomo](https://liupurnomo.com)
